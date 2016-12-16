@@ -3,9 +3,11 @@
  */
 var mongoose = require('mongoose');
 
-module.exports = mongoose.Schema({
+var phonedata = mongoose.Schema({
     FirstName:'String',
     LastName:'String',
     Phone:'String',
     Email:'String'
 });
+
+mongoose.model('model',phonedata,'phonedata');
