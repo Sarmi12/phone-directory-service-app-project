@@ -1,0 +1,36 @@
+{
+  "name": "phone-directory",
+  "version": "1.0.0",
+  "description": "This is Phone Directory App",
+  "main": "server.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "angular": "^1.6.0",
+    "mongoose": "^4.7.2"
+  },
+  "engines":{
+    "node":"4.4.0"
+    "npm":"2.14.20"
+  }
+    "Dependencies": {
+    "angular": "^1.6.0",
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.2",
+    "serve-favicon": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phone",
+    "express"
+  ],
+  "author": "Sarmila Adhikari",
+  "license": "ISC"
+
+  }
+
+
